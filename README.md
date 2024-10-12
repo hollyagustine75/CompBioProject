@@ -18,6 +18,10 @@ Accuracy : 80%
 
 Precision : 80%
 
+### Languange and Tools
+
+We use Google Colab for learning Python, particularly for machine learning, data science, and education. It offers free access to powerful GPUs and TPUs, allowing users to train models in minutes or seconds. The web-based interface is intuitive and user-friendly, and multiple users can work on the same notebook simultaneously. Colab notebooks support markdown, making it easier to document work and communicate ideas. It comes pre-installed with popular libraries and tools for machine learning and deep learning, such as TensorFlow, Keras, NumPy, Pandas, seaborn, matplotlib, Keras, and others, to save time and eliminating the need to manually install and configure these tools.
+
 ### Original Code Sources
 
 **CNN** : https://www.kaggle.com/code/deepmalviya7/plant-disease-detection-using-cnn-with-96-84
